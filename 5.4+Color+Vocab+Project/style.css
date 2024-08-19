@@ -1,0 +1,36 @@
+#red{
+    color: red;
+}
+img[ src="./assets/images/red.png"]{
+    height: 200px;
+    width: 200px;
+}
+   
+#blue{
+    color: blue;
+}
+img[src="./assets/images/blue.png"]{
+    height: 200px;
+    width: 200px;
+}
+#orange{
+    color: orange;
+}
+img[src="./assets/images/orange.png"]{
+    height: 200px;
+    width: 200px;
+}
+#green{
+    color: green;
+}
+img[src="./assets/images/green.png"]{
+    height: 200px;
+    width: 200px;
+}
+#yellow{
+    color: yellow;
+}
+img[src="./assets/images/yellow.png"]{
+    height: 200px;
+    width: 200px;
+}
